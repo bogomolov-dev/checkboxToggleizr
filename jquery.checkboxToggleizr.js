@@ -9,8 +9,10 @@
 ;(function($) {
 
     $.checkboxToggleizr = function(element, options) {
-      this.defaults = {};
+      var defaults = {};
       this.$element = $(element);
+
+      this.options = $.extend(defaults, options);
 
       this.init = function() {
 
