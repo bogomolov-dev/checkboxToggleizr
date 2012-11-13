@@ -1,0 +1,15 @@
+{
+  "title": "checkboxToggleizr",
+  "name": "jquery.checkboxToggleizr",
+  "description": "Check or uncheck all checkboxes bei one checkbox referenced by data-reference.\n * data-reference attribute of 'check all checkbox' must be the name attribute of the checkboxes.",
+  "version": "1.0",
+  "company": "Alexander Bogomolov",
+  "homepage": "http://www.starstormdesign.de",
+  "author": {
+    "name": "Alexander Bogomolov",
+    "email": "alexander@bogomolov.de",
+    "homepage": "http://www.bogomolov.de",
+    "twitter": "@abogomolov"
+  },
+  "licenses": "MIT"
+}
