@@ -69,7 +69,7 @@ Check or uncheck all checkboxes by one element referenced by a `data-reference` 
     <tr>
       <td>invert</td>
       <td>
-        true / **false** <br />
+        true/false<br />
         <em>default: false</em>
       </td>
       <td>
