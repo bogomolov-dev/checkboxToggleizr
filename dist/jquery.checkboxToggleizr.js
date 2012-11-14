@@ -1,6 +1,23 @@
 /*!
  * Project: checkboxToggleizr
- * Version: 1.0 - 2012-11-13
+ * Version: 1.0 - 2012-11-14
+ * Homepage: http://www.starstormdesign.de
+ * Copyright (c) 2012 Alexander Bogomolov
+ * 
+ * Check or uncheck all checkboxes bei one checkbox referenced by data-reference.
+ * data-reference attribute of 'check all checkbox' must be the name attribute of the checkboxes.
+ * 
+ * Author: Alexander Bogomolov
+ * E-Mail: alexander@bogomolov.de
+ * Twitter: @abogomolov
+ * Homepage: http://www.bogomolov.de
+ * 
+ * License: MIT
+ */
+
+/*!
+ * Project: checkboxToggleizr
+ * Version: 1.0 - 2012-11-14
  * Homepage: http://www.starstormdesign.de
  * Copyright (c) 2012 Alexander Bogomolov
  * 

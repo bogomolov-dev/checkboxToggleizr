@@ -28,6 +28,10 @@ module.exports = function(grunt) {
       files: ['test/**/*.html']
     },
     concat: {
+      original: {
+        src: ['<banner:meta.banner>', '<file_strip_banner:src/<%= pkg.name %>.js>'],
+        dest: 'src/<%= pkg.name %>.js'
+      },
       dist: {
         src: ['<banner:meta.banner>', '<file_strip_banner:src/<%= pkg.name %>.js>'],
         dest: 'dist/<%= pkg.name %>.js'
