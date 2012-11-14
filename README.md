@@ -73,8 +73,8 @@ Check or uncheck all checkboxes by one element referenced by a `data-reference` 
         <em>default: false</em>
       </td>
       <td>
-        If false, all checkboxes will be checkt/unchecked.<br />
-        If `true` all checkboxes will be inverted. (Checked become unchecked and unchecked become checked.
+        If <code>false</code>, all checkboxes will be checkt/unchecked.<br />
+        If <code>true</code> all checkboxes will be inverted. (Checked become unchecked and unchecked become checked.
       </td>
     </tr>
   </tbody>
